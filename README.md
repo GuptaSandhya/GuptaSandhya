@@ -1,4 +1,4 @@
-<!-- ![logo](https://github.com/Ashutosh-PMishra/GuptaSandhya/blob/main/Github%20Banner.png) -->
+/* <!-- ![logo](https://github.com/Ashutosh-PMishra/GuptaSandhya/blob/main/Github%20Banner.png) -->
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)] -->
 <!-- [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fgif-animation&psig=AOvVaw0YNFK1FSK1h_4aRulXK7U9&ust=1713524868767000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDkpeLPy4UDFQAAAAAdAAAAABAS)] -->
 
@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guptasandhya&show_icons=true&locale=en" alt="guptasandhya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guptasandhya&" alt="guptasandhya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guptasandhya&" alt="guptasandhya" /></p> */
