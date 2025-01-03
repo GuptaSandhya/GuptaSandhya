@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working as an **UI Developer**
 
-- 🌱 I’m working **Next.js/React.js**
+- 🌱 I’m working on **Next.js/React.js**
 
 - 👨‍💻 All of my projects are available at [https://guptasandhya.github.io/portfolio/](https://guptasandhya.github.io/portfolio/)
 
